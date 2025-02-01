@@ -1,10 +1,10 @@
 # WordPress CMS
 
-## 📌 Introduction
+##  Introduction
 WordPress is a **Content Management System (CMS)** that allows users to create, manage, and publish websites without extensive coding knowledge. It is open-source and powers **over 40% of the web**.
 
 ---
-## 📜  History of WordPress
+##   History of WordPress
 - **2003**: WordPress was launched by **Matt Mullenweg** and **Mike Little** as a fork of b2/cafelog.
 - **2004-2005**: Introduced **plugins and themes** for customization.
 - **2010**: WordPress Foundation took control, ensuring it remained open-source.
@@ -12,7 +12,7 @@ WordPress is a **Content Management System (CMS)** that allows users to create, 
 - **Present**: WordPress is now the dominant CMS, used by businesses, blogs, e-commerce sites, and major enterprises.
 
 ---
-## ⭐  Features of WordPress
+##   Features of WordPress
 - **User-Friendly Interface** – No coding required to create and manage pages & posts.
 - **Customizable Themes** – Thousands of free and premium themes available.
 - **Plugin System** – Extend functionality using plugins (SEO, security, backups, etc.).
@@ -24,7 +24,7 @@ WordPress is a **Content Management System (CMS)** that allows users to create, 
 - **E-Commerce Support** – WooCommerce allows for online store creation.
 
 ---
-## 🏗️  Structure of WordPress
+##  Structure of WordPress
 A WordPress website consists of two main sections:
 ### **Frontend (User Interface)**
 - **Pages & Posts** – Content displayed to visitors.
@@ -40,17 +40,17 @@ A WordPress website consists of two main sections:
 - **Users** – Manage user accounts and roles.
 
 ---
-## 🎯  Advantages of WordPress
-✅ **Free & Open-Source** – No licensing cost.
-✅ **Highly Customizable** – Themes & plugins allow unlimited modifications.
-✅ **SEO-Friendly** – Optimized for search engines.
-✅ **Large Community** – Millions of developers & users for support.
-✅ **Scalable** – Works for small blogs and enterprise-level websites.
-✅ **E-Commerce Ready** – WooCommerce turns WordPress into an online store.
-✅ **Regular Updates** – Ensures security and performance improvements.
+##  Advantages of WordPress
+**Free & Open-Source** – No licensing cost.  
+ **Highly Customizable** – Themes & plugins allow unlimited modifications.  
+**SEO-Friendly** – Optimized for search engines.  
+**Large Community** – Millions of developers & users for support.  
+**Scalable** – Works for small blogs and enterprise-level websites.  
+**E-Commerce Ready** – WooCommerce turns WordPress into an online store.
+**Regular Updates** – Ensures security and performance improvements.
 
 ---
-## 🔧 Installation Methods
+##  Installation Methods
 ### **A. Local Installation (For Development & Testing)**
 **Using XAMPP:**
 1. Install **XAMPP** from [apachefriends.org](https://www.apachefriends.org).
@@ -68,7 +68,7 @@ A WordPress website consists of two main sections:
 5. Access **wp-admin** to start customizing the website.
 
 ---
-## 🏛️  WordPress Architecture
+##   WordPress Architecture
 WordPress follows a **three-tier architecture**:
 ### **1. Client Side (Frontend)**
 - Uses **HTML, CSS, and JavaScript** for displaying content.
@@ -80,14 +80,14 @@ WordPress follows a **three-tier architecture**:
 - Uses **APIs** to fetch and display data dynamically.
 
 ### **3. File Structure**
-📂 **wp-admin/** – Core admin dashboard files.
-📂 **wp-content/** – Stores themes, plugins, and uploaded content.
-📂 **wp-includes/** – Contains WordPress core functionality files.
-📂 **wp-config.php** – Stores database connection details.
-📂 **.htaccess** – Used for URL redirection and security settings.
+ **wp-admin/** – Core admin dashboard files.  
+ **wp-content/** – Stores themes,   plugins, and uploaded content.  
+ **wp-includes/** – Contains WordPress core functionality files.  
+ **wp-config.php** – Stores database connection details.
+ **.htaccess** – Used for URL redirection and security settings.
 
 ---
-## 📦  WordPress Extensions
+##  WordPress Extensions
 ### **A. Themes (Appearance Customization)**
 - Modify site design and layout with themes.
 - Available in **WordPress Theme Directory** and third-party sources.
